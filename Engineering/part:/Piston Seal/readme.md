@@ -19,11 +19,23 @@ Quote:
 >
 >Oakum was and still is a possibility for packing glands to seal piston and valve rods, the rod in question polished as smooth as you can get. Also valid for this use case would be asbestos, and later on you could purchase high temperature synthetic fibers that had been prepared in a rope-like form for ease of installation. I've serviced more than a few steam glands using rope type seals, but ultimately the modern high temp rubber dominates newer applications and repacks for vintage ones.
 
+## site: ModelEngineMaker.com
+sch: https://www.google.com/search?q=steam+engine+piston+sealing+site:www.modelenginemaker.com
+
+- https://www.modelenginemaker.com/index.php?topic=5858.0
+- https://www.modelenginemaker.com/index.php?topic=10317.75
+- https://www.modelenginemaker.com/index.php?topic=9375.0
+- https://www.modelenginemaker.com/index.php?topic=6204.0
+
 # Material:
 ## Oakum
 sch: https://www.google.com/search?q=steam+engine+Oakum
 
 wiki: https://en.wikipedia.org/wiki/Oakum
 
-### Patent
+## Graphite
+
+## Leather
+
+# Patent
 https://www.egr.msu.edu/~%EF%BD%8Cira/supp/steam/newcomen.htm
