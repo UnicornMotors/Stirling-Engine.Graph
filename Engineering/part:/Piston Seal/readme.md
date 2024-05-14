@@ -10,7 +10,8 @@ https://www.totalseal.com/articles/the-history-of-piston-rings
 
 # Discuss:
 - http://chaski.org/homemachinist/viewtopic.php?t=80495
-- https://www.reddit.com/r/steamengines/comments/1505se8/old_time_piston_sealing/?rdt=53343
+- https://www.modelenginemaker.com/index.php?topic=5310.0
+- https://www.reddit.com/r/steamengines/comments/1505se8/old_time_piston_sealing/
 
 Quote:
 >OdinYggd
