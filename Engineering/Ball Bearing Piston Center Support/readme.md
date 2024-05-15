@@ -4,3 +4,6 @@
 Can use Ceramic Bearings for Thermal Stability!
 
 As opposed to these brass which will casuse wear: https://youtu.be/cpMlAItzQ4M?list=PLgmbbzRSWDbUHMjUvrRma3eOSYqOb8Vvw
+
+# Alt:
+https://www.youtube.com/watch?v=E7yF8kKSbyE&list=PLgmbbzRSWDbUHMjUvrRma3eOSYqOb8Vvw&index=12
