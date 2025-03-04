@@ -6,6 +6,9 @@
 - [The NASA Stirling Engine - Made In An Hour - Step By Step](https://youtu.be/1mF3ipfX34I)\
   - [How Stirling Engines Work](https://youtu.be/1mF3ipfX34I)
 
+## by: AttilaBlade
+Home: https://www.youtube.com/@AttilaBlade
+
 # Thermoacoustic
 - [Acoustic Energy & Surprising Ways To Harness It (Intro To Thermoacoustics)](https://youtu.be/abswNCqnMRQ)
 - [New thermoacoustic Stirling engine built for more power to make cheap energy with DIY micro CHP](https://youtu.be/6PF-GxSCcXA)
