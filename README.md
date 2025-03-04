@@ -8,3 +8,4 @@
 
 # Thermoacoustic
 - [Acoustic Energy & Surprising Ways To Harness It (Intro To Thermoacoustics)](https://youtu.be/abswNCqnMRQ)
+- [New thermoacoustic Stirling engine built for more power to make cheap energy with DIY micro CHP](https://youtu.be/6PF-GxSCcXA)
