@@ -9,3 +9,6 @@
 # Thermoacoustic
 - [Acoustic Energy & Surprising Ways To Harness It (Intro To Thermoacoustics)](https://youtu.be/abswNCqnMRQ)
 - [New thermoacoustic Stirling engine built for more power to make cheap energy with DIY micro CHP](https://youtu.be/6PF-GxSCcXA)
+
+# Fluidyne
+- [1419 The Easiest Engine You Will Ever Build - The Fluidyne](https://youtu.be/yvuetEaZiwo?list=PLbQqm4rNo627aJO-JWseas7M1nVrxJYw0)
