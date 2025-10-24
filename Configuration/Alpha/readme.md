@@ -1,1 +1,2 @@
 - [Hot Air Engine Car (Stirling Engine 3D Printed)](https://youtu.be/lmncBzb2Xbg)
+- [alpha-Type Stirling Engine: Theory, Construction and Analysis](https://youtu.be/KW9WzPvHJdI)
