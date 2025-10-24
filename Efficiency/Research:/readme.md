@@ -1,0 +1,2 @@
+- [Factors Influencing the Thermodynamic Efficiency of Stirling Engines](https://epress.lib.uts.edu.au/student-journals/index.php/PAMR/article/view/1459/1536)
+- 
