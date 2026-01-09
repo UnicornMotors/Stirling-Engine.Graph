@@ -1,5 +1,9 @@
 https://www.google.com/search?q=thermal+conductivity+of+common+*
 
+# List:
+Wiki: https://en.wikipedia.org/wiki/List_of_thermal_conductivities
+- https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
+
 # Glass:
 https://www.google.com/search?q=thermal+conductivity+of+borosilicate+glass
 
